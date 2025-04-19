@@ -82,18 +82,6 @@ body, html {
   transition: opacity 0.3s;
 }
 
-/* .indicator {
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 4px;
-  height: 100%; 
-} */
-
-.nav-item.active .indicator {
-  opacity: 1;
-}
-
 /* LOGOUT */
 .logout {
   padding: 20px 20px;
